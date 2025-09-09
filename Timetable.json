@@ -1,0 +1,209 @@
+{
+    "Days": [
+        {
+            "Days": 1,
+            "Blocks": [
+                {
+                    "Index": 1,
+                    "Subject": "Mathe",
+                    "Teacher": "Gerth",
+                    "Room": "0.22",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 2,
+                    "Subject": "Technik",
+                    "Teacher": "H\u00E4le",
+                    "Room": "0.20",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 3,
+                    "Subject": "Deutsch",
+                    "Teacher": "Rad---",
+                    "Room": "1.48",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 4,
+                    "Subject": "Englisch",
+                    "Teacher": "Leyendecker",
+                    "Room": "2.37",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                }
+            ]
+        },
+        {
+            "Days": 2,
+            "Blocks": [
+                {
+                    "Index": 1,
+                    "Subject": "Mathe",
+                    "Teacher": "Gerth",
+                    "Room": "0.22",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 2,
+                    "Subject": "Englisch",
+                    "Teacher": "Leyendecker",
+                    "Room": "2.37",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 3,
+                    "Subject": "Deutsch",
+                    "Teacher": "Rad---",
+                    "Room": "1.48",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 4,
+                    "Subject": "Technische Physik",
+                    "Teacher": "Wendland",
+                    "Room": "0.10",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                }
+            ]
+        },
+        {
+            "Days": 3,
+            "Blocks": [
+                {
+                    "Index": 0,
+                    "Subject": null,
+                    "Teacher": null,
+                    "Room": null,
+                    "IsFirstWeek": false,
+                    "IsWeekly": false,
+                    "IsFree": true
+                },
+                {
+                    "Index": 2,
+                    "Subject": "Technik",
+                    "Teacher": "Wendland",
+                    "Room": "0.10",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 3,
+                    "Subject": "Politische Bildung",
+                    "Teacher": "Parwager",
+                    "Room": "0.25",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 4,
+                    "Subject": "Chemie",
+                    "Teacher": "Lauc---",
+                    "Room": "0.22",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                }
+            ]
+        },
+        {
+            "Days": 4,
+            "Blocks": [
+                {
+                    "Index": 1,
+                    "Subject": "Betriebswirtschaftslehre",
+                    "Teacher": "Schoe---",
+                    "Room": "2.31",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 2,
+                    "Subject": "Englisch",
+                    "Teacher": "Leyendecker",
+                    "Room": "2.37",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 3,
+                    "Subject": "Technik",
+                    "Teacher": "Brehmer",
+                    "Room": "0.20",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 4,
+                    "Subject": "Deutsch",
+                    "Teacher": "Rad---",
+                    "Room": "1.48",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                }
+            ]
+        },
+        {
+            "Days": 5,
+            "Blocks": [
+                {
+                    "Index": 1,
+                    "Subject": "Mathe",
+                    "Teacher": "Gerth",
+                    "Room": "0.22",
+                    "IsFirstWeek": false,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 2,
+                    "Subject": "Technische Kommunikation",
+                    "Teacher": "Wendland",
+                    "Room": "0.10",
+                    "IsFirstWeek": true,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 3,
+                    "Subject": "Technik",
+                    "Teacher": "H\u00E4le",
+                    "Room": "0.22",
+                    "IsFirstWeek": true,
+                    "IsWeekly": true,
+                    "IsFree": false
+                },
+                {
+                    "Index": 0,
+                    "Subject": null,
+                    "Teacher": null,
+                    "Room": null,
+                    "IsFirstWeek": false,
+                    "IsWeekly": false,
+                    "IsFree": true
+                }
+            ]
+        }
+    ]
+}
