@@ -1,3 +1,8 @@
+# Ulan Schedules
+
+## Subject indices
+
+```
 public enum Subjects
 {
 	[Display(Name = "Mathe")]
@@ -21,3 +26,4 @@ public enum Subjects
 	[Display(Name = "Betriebswirtschaftslehre")]
 	Bl
 }
+```
