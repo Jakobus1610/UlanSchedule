@@ -1,0 +1,243 @@
+{
+    "Days": [
+        {
+            "Days": 1,
+            "Blocks": [
+                {
+                    "Weekly": {
+                        "Index": 1,
+                        "Subject": 0,
+                        "Teacher": "Gerth",
+                        "Room": "0.22",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 2,
+                        "Subject": 3,
+                        "Teacher": "H\u00E4le",
+                        "Room": "0.20",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 3,
+                        "Subject": 1,
+                        "Teacher": "Rad---",
+                        "Room": "2.36",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 0,
+                        "Subject": 0,
+                        "Teacher": null,
+                        "Room": null,
+                        "IsFree": true
+                    },
+                    "IsBiWeekly": false
+                }
+            ]
+        },
+        {
+            "Days": 2,
+            "Blocks": [
+                {
+                    "Weekly": {
+                        "Index": 1,
+                        "Subject": 0,
+                        "Teacher": "Gerth",
+                        "Room": "0.22",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 2,
+                        "Subject": 7,
+                        "Teacher": "Lauckner",
+                        "Room": "2.37",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 3,
+                        "Subject": 2,
+                        "Teacher": "Leyendecker",
+                        "Room": "2.38",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "FirstWeek": {
+                        "Index": 4,
+                        "Subject": 4,
+                        "Teacher": "Wendland",
+                        "Room": "0.10",
+                        "IsFree": false
+                    },
+                    "SecondWeek": {
+                        "Index": 0,
+                        "Subject": 0,
+                        "Teacher": null,
+                        "Room": null,
+                        "IsFree": true
+                    },
+                    "IsBiWeekly": true
+                }
+            ]
+        },
+        {
+            "Days": 3,
+            "Blocks": [
+                {
+                    "Weekly": {
+                        "Index": 1,
+                        "Subject": 6,
+                        "Teacher": "Parwager",
+                        "Room": "2.32",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 2,
+                        "Subject": 3,
+                        "Teacher": "Wendland",
+                        "Room": "0.10",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 3,
+                        "Subject": 1,
+                        "Teacher": "Rad---",
+                        "Room": "2.36",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 0,
+                        "Subject": 0,
+                        "Teacher": null,
+                        "Room": null,
+                        "IsFree": true
+                    },
+                    "IsBiWeekly": false
+                }
+            ]
+        },
+        {
+            "Days": 4,
+            "Blocks": [
+                {
+                    "Weekly": {
+                        "Index": 1,
+                        "Subject": 9,
+                        "Teacher": "Schoe---",
+                        "Room": "2.31",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 2,
+                        "Subject": 2,
+                        "Teacher": "Leyendecker",
+                        "Room": "2.37",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 3,
+                        "Subject": 3,
+                        "Teacher": "Brehmer",
+                        "Room": "0.20",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 0,
+                        "Subject": 0,
+                        "Teacher": null,
+                        "Room": null,
+                        "IsFree": true
+                    },
+                    "IsBiWeekly": false
+                }
+            ]
+        },
+        {
+            "Days": 5,
+            "Blocks": [
+                {
+                    "Weekly": {
+                        "Index": 1,
+                        "Subject": 0,
+                        "Teacher": "Gerth",
+                        "Room": "0.22",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "Weekly": {
+                        "Index": 2,
+                        "Subject": 5,
+                        "Teacher": "Wendland",
+                        "Room": "0.10",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": false
+                },
+                {
+                    "FirstWeek": {
+                        "Index": 3,
+                        "Subject": 2,
+                        "Teacher": "Leyendecker",
+                        "Room": "2.37",
+                        "IsFree": false
+                    },
+                    "SecondWeek": {
+                        "Index": 3,
+                        "Subject": 8,
+                        "Teacher": "Ribbentrop",
+                        "Room": "Spo3",
+                        "IsFree": false
+                    },
+                    "IsBiWeekly": true
+                },
+                {
+                    "Weekly": {
+                        "Index": 0,
+                        "Subject": 0,
+                        "Teacher": null,
+                        "Room": null,
+                        "IsFree": true
+                    },
+                    "IsBiWeekly": false
+                }
+            ]
+        }
+    ]
+}
