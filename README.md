@@ -6,24 +6,24 @@
 public enum Subjects
 {
 	[Display(Name = "Mathe")]
-	Ma,
+	Ma,				//	0
 	[Display(Name = "Deutsch")]
-	De,
+	De,				//	1
 	[Display(Name = "Englisch")]
-	En,
+	En,				//	2
 	[Display(Name = "Technik")]
-	Te,
+	Te,				//	3
 	[Display(Name = "Technische Kommunikation")]
-	Tk,
+	Tk,				//	4
 	[Display(Name = "Technische Physik")]
-	Tp,
+	Tp,				//	5
 	[Display(Name = "Politische Bildung")]
-	Pb,
+	Pb,				//	6
 	[Display(Name = "Chemie")]
-	Ch,
+	Ch,				//	7
 	[Display(Name = "Sport")]
-	Sp,
+	Sp,				//	8
 	[Display(Name = "Betriebswirtschaftslehre")]
-	Bl
+	Bl				//	9
 }
 ```
