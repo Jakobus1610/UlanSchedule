@@ -26,20 +26,20 @@
                 {
                     "Weekly": {
                         "Index": 3,
-                        "Subject": 1,
-                        "Teacher": "Raden",
-                        "Room": "2.38",
+                        "Subject": 4,
+                        "Teacher": "Wendland (2. Woche Sport -> Rib)",
+                        "Room": "0.10",
                         "IsFree": false
                     },
                     "IsBiWeekly": false
                 },
                 {
-                    "Weekly": {
-                        "Index": 0,
-                        "Subject": 0,
-                        "Teacher": null,
-                        "Room": null,
-                        "IsFree": true
+                    "Weekly": { 
+                        "Index": 4,
+                        "Subject": 2,
+                        "Teacher": "Leyendecker",
+                        "Room": "2.36",
+                        "IsFree": false
                     },
                     "IsBiWeekly": false
                 }
@@ -61,8 +61,8 @@
                 {
                     "Weekly": {
                         "Index": 2,
-                        "Subject": 7,
-                        "Teacher": "Lauckner",
+                        "Subject": 3,
+                        "Teacher": "Brehmner",
                         "Room": "0.20",
                         "IsFree": false
                     },
@@ -71,29 +71,22 @@
                 {
                     "Weekly": {
                         "Index": 3,
-                        "Subject": 2,
-                        "Teacher": "Leyendecker",
-                        "Room": "2.38",
+                        "Subject": 1,
+                        "Teacher": "Raden",
+                        "Room": "0.20",
                         "IsFree": false
                     },
                     "IsBiWeekly": false
                 },
                 {
-                    "FirstWeek": {
+                    "Weekly": {
                         "Index": 4,
-                        "Subject": 4,
-                        "Teacher": "Wendland",
-                        "Room": "0.10",
+                        "Subject": 7,
+                        "Teacher": "Lauckner",
+                        "Room": "0.20",
                         "IsFree": false
                     },
-                    "SecondWeek": {
-                        "Index": 0,
-                        "Subject": 0,
-                        "Teacher": null,
-                        "Room": null,
-                        "IsFree": true
-                    },
-                    "IsBiWeekly": true
+                    "IsBiWeekly": false
                 }
             ]
         },
@@ -105,7 +98,7 @@
                         "Index": 1,
                         "Subject": 6,
                         "Teacher": "Parwager",
-                        "Room": "2.32",
+                        "Room": "2.37",
                         "IsFree": false
                     },
                     "IsBiWeekly": false
@@ -125,7 +118,7 @@
                         "Index": 3,
                         "Subject": 1,
                         "Teacher": "Raden",
-                        "Room": "2.38",
+                        "Room": "0.10",
                         "IsFree": false
                     },
                     "IsBiWeekly": false
@@ -150,7 +143,7 @@
                         "Index": 1,
                         "Subject": 9,
                         "Teacher": "Schoe---",
-                        "Room": "2.31",
+                        "Room": "2.33",
                         "IsFree": false
                     },
                     "IsBiWeekly": false
@@ -170,7 +163,7 @@
                         "Index": 3,
                         "Subject": 3,
                         "Teacher": "Brehmer",
-                        "Room": "0.20",
+                        "Room": "1.48",
                         "IsFree": false
                     },
                     "IsBiWeekly": false
@@ -211,21 +204,14 @@
                     "IsBiWeekly": false
                 },
                 {
-                    "FirstWeek": {
+                    "Weekly": {
                         "Index": 3,
                         "Subject": 2,
                         "Teacher": "Leyendecker",
-                        "Room": "2.37",
+                        "Room": "2.31",
                         "IsFree": false
                     },
-                    "SecondWeek": {
-                        "Index": 3,
-                        "Subject": 8,
-                        "Teacher": "Ribbentrop",
-                        "Room": "Spo3",
-                        "IsFree": false
-                    },
-                    "IsBiWeekly": true
+                    "IsBiWeekly": false
                 },
                 {
                     "Weekly": {
